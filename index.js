@@ -40,9 +40,9 @@ client.on('ready', async () => {
     .setName('CALM SHARK')
     .setDetails(`Welcome to Mr.Sharks Profile`)
     .setStartTimestamp(Date.now())
- .setAssetsLargeImage('https://tenor.com/c0eZBaul0NO.gif') //You can put links in tenor or discord and etc.
+ .setAssetsLargeImage('https://c.tenor.com/IRQu9B8XSZIAAAAd/tenor.gif') //You can put links in tenor or discord and etc.
     .setAssetsLargeText('I AM BASEL :)') 
-    .setAssetsSmallImage('https://tenor.com/gTIky34UNYJ.gif') //You can put links in tenor or discord and etc.
+    .setAssetsSmallImage('https://media.tenor.com/TnFy2RHWKAsAAAAi/palestine.gif') //You can put links in tenor or discord and etc.
     .setAssetsSmallText('VIVA PALESTINA') 
     .addButton('Google', 'https://google.com');
 
