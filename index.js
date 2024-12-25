@@ -42,7 +42,7 @@ client.on('ready', async () => {
     .setStartTimestamp(Date.now())
  .setAssetsLargeImage('https://media.discordapp.net/attachments/918918699203837982/1321501402643562618/itsoma98_14031001_172038562.jpg?ex=676d7796&is=676c2616&hm=b1e5ed696243b36c011543c5d2f0171dec1a253ed4a2fd3a0943dfd959eb064e&=&format=webp&width=692&height=521') //You can put links in tenor or discord and etc.
     .setAssetsLargeText('I AM BASEL :)') 
-    .setAssetsSmallImage('https://media.discordapp.net/attachments/1193602666518036541/1321504320335773726/cdb3811b-2906-47ff-a490-64fde27cbf1d.jpg?ex=676d7a4e&is=676c28ce&hm=fc25ffe3616675136267d2a3e94ab714c8fef748f96d4b0b0fc344d090d8a241&=&format=webp&width=701&height=701') //You can put links in tenor or discord and etc.
+    .setAssetsSmallImage('https://media.discordapp.net/attachments/1193602666518036541/1321506553433423902/istockphoto-1348063438-612x612.jpg?ex=676d7c62&is=676c2ae2&hm=06c9b846188a0fa22e2564994343ec913a03fb97a0dc259578d87a991cc62dfc&=&format=webp&width=701&height=701') //You can put links in tenor or discord and etc.
     .setAssetsSmallText('UNMESSABLE') 
     .addButton('Google', 'https://google.com');
 
