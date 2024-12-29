@@ -40,9 +40,9 @@ client.on('ready', async () => {
     .setName('CALM SHARK')
     .setDetails(`Welcome to Mr.Sharks Profile`)
     .setStartTimestamp(Date.now())
- .setAssetsLargeImage('https://media.discordapp.net/attachments/918918699203837982/1321501402643562618/itsoma98_14031001_172038562.jpg?ex=6770c356&is=676f71d6&hm=de3a303f953373ac46648b569a8c65cb4e38a7184a83ac4c9a6712288f797a7b&=&format=webp&width=692&height=521') //You can put links in tenor or discord and etc.
+ .setAssetsLargeImage('https://media.discordapp.net/attachments/918918699203837982/1321501402643562618/itsoma98_14031001_172038562.jpg?ex=6772bd96&is=67716c16&hm=06c80a06cc7de01c1b3a016525e3d19509928fd5dcaf966bb9f3eb722f651e03&=&format=webp&width=692&height=521') //You can put links in tenor or discord and etc.
     .setAssetsLargeText('I AM BASEL :)') 
-    .setAssetsSmallImage('https://media.discordapp.net/attachments/1193602666518036541/1321507550021156874/Picsart_24-12-25_18-59-03-230.jpg?ex=6770c910&is=676f7790&hm=49e0afbe61950231a563a9c7ef35e67dd0a32ec6eecb3d16355d8f95d1e5dada&=&format=webp&width=701&height=701') //You can put links in tenor or discord and etc.
+    .setAssetsSmallImage('https://media.discordapp.net/attachments/1193602666518036541/1321507550021156874/Picsart_24-12-25_18-59-03-230.jpg?ex=6772c350&is=677171d0&hm=41f2ed9346d044edd57d70216c3b7561f7ba5ec2f21f08817797a922dffd69ba&=&format=webp&width=701&height=701') //You can put links in tenor or discord and etc.
     .setAssetsSmallText('UNMESSABLE') 
     .addButton('Google', 'https://google.com');
 
